@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ProgressBar (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ProgressBar (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
