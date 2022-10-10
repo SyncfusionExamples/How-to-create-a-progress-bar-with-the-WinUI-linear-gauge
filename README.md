@@ -1,6 +1,6 @@
 # How to create a progress bar with the WinUI linear gauge
 
-This repository contains sample for how to display a progress bar using the [Syncfusion WinUi Linear Gauge](https://help.syncfusion.com/winui/linear-gauge/getting-started) control.
+This repository contains sample for how to display a progress bar using the [Syncfusion WinUI Linear Gauge](https://help.syncfusion.com/winui/linear-gauge/getting-started) control.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/13599/how-to-create-a-progress-bar-with-the-winui-linear-gauge-sflineargauge).
 
